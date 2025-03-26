@@ -5,7 +5,7 @@ I'm interested in cybersecurity and web development. I'm currently studying C, R
 I would love to explore more about tech community and be involve with organizations.
 
 **Skills:** 
-Web and Mobile Development | Backend Development | Database Management | Cybersecurity (Currently Learning) | 
+Web and Mobile Development | Backend Development | Database Management | Cybersecurity (Currently Learning)
 
 **Languages:**
 HTML | CSS | JavaScript | PHP | MySQL | Flutter | C | Python (Learning)
