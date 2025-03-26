@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi my name is, **Antonio Rafael Herrera**. I am from Antipolo City, Philippines and currently taking BSIT (Bachelors in Information Technology).
 
-<!--
-**rafooyel11/rafooyel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in cybersecurity and web development. I'm currently studying C, ReactJS, and Networking.
 
-Here are some ideas to get you started:
+I would love to explore more about tech community and be involve with organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** 
+Web and Mobile Development | Backend Development | Database Management | Cybersecurity (Currently Learning) | 
+
+**Languages:**
+HTML | CSS | JavaScript | PHP | MySQL | Flutter | C | Python (Learning)
+
+
+- 🔭 I’m currently working on: Alarm System using EMG and Pulse Sensors, Mental Health Chatbot Assistance Mobile Application, 
+- 🌱 I’m currently learning: Networking, Cybersecurity, Web Development, ReactJs
+- 📫 How to reach me: Facebook and Instagram 
+- 😄 Pronouns: He/Him
+
