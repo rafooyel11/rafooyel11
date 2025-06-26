@@ -11,7 +11,7 @@ Web and Mobile Development | Backend Development | Database Management | Cyberse
 HTML | CSS | JavaScript | PHP | MySQL | Flutter | C | Python (Learning)
 
 
-- 🔭 I’m currently working on: Alarm System using EMG and Pulse Sensors, Mental Health Chatbot Assistance Mobile Application, 
+- 🔭 I’m currently working on: Roblox Game, Network Analysis Tool using Scapy & Pyshark, Crime Data Analytics
 - 🌱 I’m currently learning: Networking, Cybersecurity, Web Development, ReactJs
 - 📫 How to reach me: Facebook and Instagram 
 
